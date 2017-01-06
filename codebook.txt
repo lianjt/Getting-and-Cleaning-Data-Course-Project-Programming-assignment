@@ -1,4 +1,4 @@
-1. subject: ID of subject
+1. subject: ID of subject.
 
 2. activity_desc: the measurements of six activities(Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying)
 
