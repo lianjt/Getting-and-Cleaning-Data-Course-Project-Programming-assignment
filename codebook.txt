@@ -1,7 +1,0 @@
-1. subject: ID of subject.
-
-2. activity_desc: the measurements of six activities(Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying)
-
-3. measurement: Measurements on the mean and standard deviation for each measurement within a 561-feature vector with time and frequency domain variables.
-
-4. average: average of each measurements, divided by subject and activity
